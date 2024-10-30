@@ -1,8 +1,11 @@
 ## Alara - Your Virtual Personal Trainer
 
+<img src="Alara_Web.jpeg" alt="Alt text" width="800">
+
 ## Introduction:
 
 Welcome to Alara! This project is a website designed to help users achieve their fitness goals through personalized workout plans generated using computer vision technology. The website utilizes Reflex to handle parameter inputs and image uploads, allowing users to receive tailored workout recommendations based on their body analysis. Additionally, Alara, our custom chatbot, is integrated to provide users with a seamless and interactive experience, answering questions and offering guidance throughout their fitness journey.
+
 
 ## Key Features:
 
