@@ -1,0 +1,19 @@
+Day,Muscle Groups,Workout Type,Exercise Name,Sets,Reps,Rest Time,Intensity
+Day 1,Back and Biceps,Cardio/Strength Focused,Barbell Deadlift,5,5,3-5 minutes,80% 1RM
+Day 1,Back and Biceps,Cardio/Strength Focused,Pull Ups,4,8-12,2-3 minutes,RPE 7-8
+Day 1,Back and Biceps,Cardio/Strength Focused,Seated Cable Row,3,10-15,1-2 minutes,RPE 7
+Day 1,Back and Biceps,Cardio/Strength Focused,Dumbbell Bicep Curl,3,10-12,1-2 minutes,RPE 7
+Day 1,Back and Biceps,Cardio/Strength Focused,Hammer Curl,3,12-15,1-2 minutes,RPE 8
+Day 2,Chest and Triceps,Cardio/Strength Focused,Barbell Bench Press,5,5,3-5 minutes,80% 1RM
+Day 2,Chest and Triceps,Cardio/Strength Focused,Incline Dumbbell Press,4,8-12,2-3 minutes,RPE 7-8
+Day 2,Chest and Triceps,Cardio/Strength Focused,Decline Dumbbell Press,3,10-15,1-2 minutes,RPE 7
+Day 2,Chest and Triceps,Cardio/Strength Focused,Close Grip Bench Press,3,10-12,1-2 minutes,RPE 7
+Day 2,Chest and Triceps,Cardio/Strength Focused,Tricep Pushdowns,3,12-15,1-2 minutes,RPE 8
+Day 3,Legs and Shoulders,Cardio/Strength Focused,Back Squat,5,5,3 minutes,85% 1RM
+Day 3,Legs and Shoulders,Cardio/Strength Focused,Romanian Deadlift,4,6-10,2-3 minutes,RPE 8
+Day 3,Legs and Shoulders,Cardio/Strength Focused,Leg Press,3,10-15,1-2 minutes,RPE 7
+Day 3,Legs and Shoulders,Cardio/Strength Focused,Overhead Press,4,6-10,2-3 minutes,RPE 8
+Day 3,Legs and Shoulders,Cardio/Strength Focused,Lateral Raise,3,10-12,1-2 minutes,RPE 7
+Day 4,Core,Cardio/Strength Focused,Plank,3,30-60 seconds,1-2 minutes,RPE 7
+Day 4,Core,Cardio/Strength Focused,Russian Twist,3,15-20 per side,1-2 minutes,RPE 7
+Day 4,Core,Cardio/Strength Focused,Hanging Leg Raise,3,As many reps as possible,1-2 minutes,RPE 8

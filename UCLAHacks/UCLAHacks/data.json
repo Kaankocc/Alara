@@ -1,0 +1,17 @@
+{
+    "name": "Kaan",
+    "weight": "70",
+    "height": "180",
+    "age": "23",
+    "sex": "Male",
+    "shoulder_width": 46,
+    "hip_width": 42,
+    "bmi": 21.6,
+    "shoulder_hip_ratio": 1.1,
+    "goals": "Lose Weight",
+    "problems": "N/A",
+    "experience": "Beginner",
+    "time": "4 days a week",
+    "access": "Full gym access",
+    "preference": "None"
+}

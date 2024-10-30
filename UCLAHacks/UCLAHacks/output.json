@@ -1,0 +1,219 @@
+{
+    "Day 1": {
+        "Focus": "Upper Body",
+        "Exercises": [
+            {
+                "Name": "Barbell Bench Press",
+                "Sets": 3,
+                "Reps": "8-12",
+                "Rest": "60 seconds",
+                "Intensity": "Moderate"
+            },
+            {
+                "Name": "Dumbbell Rows",
+                "Sets": 3,
+                "Reps": "8-12",
+                "Rest": "60 seconds",
+                "Intensity": "Moderate"
+            },
+            {
+                "Name": "Overhead Press (Dumbbells or Barbell)",
+                "Sets": 3,
+                "Reps": "8-12",
+                "Rest": "60 seconds",
+                "Intensity": "Moderate"
+            },
+            {
+                "Name": "Lat Pulldowns",
+                "Sets": 3,
+                "Reps": "10-15",
+                "Rest": "60 seconds",
+                "Intensity": "Moderate"
+            },
+            {
+                "Name": "Bicep Curls",
+                "Sets": 3,
+                "Reps": "10-15",
+                "Rest": "45 seconds",
+                "Intensity": "Moderate"
+            },
+            {
+                "Name": "Triceps Pushdowns",
+                "Sets": 3,
+                "Reps": "10-15",
+                "Rest": "45 seconds",
+                "Intensity": "Moderate"
+            }
+        ]
+    },
+    "Day 2": {
+        "Focus": "Lower Body",
+        "Exercises": [
+            {
+                "Name": "Squats",
+                "Sets": 3,
+                "Reps": "8-12",
+                "Rest": "60 seconds",
+                "Intensity": "Moderate"
+            },
+            {
+                "Name": "Romanian Deadlifts",
+                "Sets": 3,
+                "Reps": "8-12",
+                "Rest": "60 seconds",
+                "Intensity": "Moderate"
+            },
+            {
+                "Name": "Leg Press",
+                "Sets": 3,
+                "Reps": "10-15",
+                "Rest": "60 seconds",
+                "Intensity": "Moderate"
+            },
+            {
+                "Name": "Hamstring Curls",
+                "Sets": 3,
+                "Reps": "10-15",
+                "Rest": "60 seconds",
+                "Intensity": "Moderate"
+            },
+            {
+                "Name": "Calf Raises",
+                "Sets": 3,
+                "Reps": "15-20",
+                "Rest": "45 seconds",
+                "Intensity": "Moderate"
+            }
+        ]
+    },
+    "Day 3": {
+        "Focus": "Rest and Recovery",
+        "Exercises": [
+            {
+                "Name": "Light Cardio (Walking, Swimming, Cycling)",
+                "Sets": "N/A",
+                "Reps": "20-30 minutes",
+                "Rest": "N/A",
+                "Intensity": "Low"
+            },
+            {
+                "Name": "Stretching or Yoga",
+                "Sets": "N/A",
+                "Reps": "15-20 minutes",
+                "Rest": "N/A",
+                "Intensity": "Low"
+            }
+        ]
+    },
+    "Day 4": {
+        "Focus": "Upper Body",
+        "Exercises": [
+            {
+                "Name": "Incline Dumbbell Press",
+                "Sets": 3,
+                "Reps": "8-12",
+                "Rest": "60 seconds",
+                "Intensity": "Moderate"
+            },
+            {
+                "Name": "Pull-Ups (Assisted if needed)",
+                "Sets": 3,
+                "Reps": "As Many as Possible (AMRAP)",
+                "Rest": "60 seconds",
+                "Intensity": "Moderate"
+            },
+            {
+                "Name": "Dumbbell Shoulder Press",
+                "Sets": 3,
+                "Reps": "8-12",
+                "Rest": "60 seconds",
+                "Intensity": "Moderate"
+            },
+            {
+                "Name": "Cable Rows",
+                "Sets": 3,
+                "Reps": "10-15",
+                "Rest": "60 seconds",
+                "Intensity": "Moderate"
+            },
+            {
+                "Name": "Hammer Curls",
+                "Sets": 3,
+                "Reps": "10-15",
+                "Rest": "45 seconds",
+                "Intensity": "Moderate"
+            },
+            {
+                "Name": "Overhead Triceps Extensions",
+                "Sets": 3,
+                "Reps": "10-15",
+                "Rest": "45 seconds",
+                "Intensity": "Moderate"
+            }
+        ]
+    },
+    "Day 5": {
+        "Focus": "Lower Body",
+        "Exercises": [
+            {
+                "Name": "Goblet Squats",
+                "Sets": 3,
+                "Reps": "8-12",
+                "Rest": "60 seconds",
+                "Intensity": "Moderate"
+            },
+            {
+                "Name": "Deadlifts (Conventional or Sumo)",
+                "Sets": 3,
+                "Reps": "5-8",
+                "Rest": "75 seconds",
+                "Intensity": "Moderate"
+            },
+            {
+                "Name": "Leg Extensions",
+                "Sets": 3,
+                "Reps": "10-15",
+                "Rest": "60 seconds",
+                "Intensity": "Moderate"
+            },
+            {
+                "Name": "Lying Leg Curls",
+                "Sets": 3,
+                "Reps": "10-15",
+                "Rest": "60 seconds",
+                "Intensity": "Moderate"
+            },
+            {
+                "Name": "Standing Calf Raises",
+                "Sets": 3,
+                "Reps": "15-20",
+                "Rest": "45 seconds",
+                "Intensity": "Moderate"
+            }
+        ]
+    },
+    "Day 6": {
+        "Focus": "Active Rest",
+        "Exercises": [
+            {
+                "Name": "Light Cardio (Walking, Swimming, Hiking)",
+                "Sets": "N/A",
+                "Reps": "30-45 minutes",
+                "Rest": "N/A",
+                "Intensity": "Low"
+            }
+        ]
+    },
+    "Day 7": {
+        "Focus": "Rest",
+        "Exercises": [
+            {
+                "Name": "Rest or Light Activity",
+                "Sets": "N/A",
+                "Reps": "N/A",
+                "Rest": "N/A",
+                "Intensity": "N/A"
+            }
+        ]
+    }
+}
