@@ -5,7 +5,7 @@ import pandas as pd
 import json
 
 import google.generativeai as genai
-GOOGLE_API_KEY = "AIzaSyA38s3bwK_NIpK2zoIfIBSH2GkZeaUgfkM"
+GOOGLE_API_KEY = "YOUR-OWN-KEY"
 
 class AIState(rx.State):
     is_program_loaded: bool = False
